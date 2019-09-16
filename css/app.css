@@ -168,6 +168,23 @@ ul {
   width: 85%;
 }
 
+.social-tab {
+  padding-top: 3em;
+  text-align: center;
+}
+
+.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.social img {
+  width: 40px;
+  height: 40px;
+  fill: #9b9b9b;
+}
+
 /* Custom Modal Window */
 
 .crm-window-wrapper-fade-enter,
