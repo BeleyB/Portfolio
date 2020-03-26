@@ -8,7 +8,7 @@
 }
 
 .container {
-  max-width: 960px;
+  max-width: 1100px;
   width: 100%;
   margin: auto;
   padding: 50px 50px 0 50px;
@@ -21,7 +21,7 @@
 }
 
 .row-left {
-  min-width: 240px;
+  min-width: 260px;
   padding: 1em 0 1em 0;
 }
 
@@ -1062,6 +1062,12 @@ button {
 
 .custom-scroll::-webkit-scrollbar-track {
   border-radius: 20px;
+}
+
+.i-icon {
+  width: 1.5em;
+  text-align: center;
+  color: #0a9e47;
 }
 
 .text_active {
